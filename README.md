@@ -33,5 +33,4 @@ bank?
 
 + Task 2: Align(make the rectangle image straight) all the given images of the rectangle. Both
   of the tasks are different, please do them separately.
-  Make 2 python files with the names rectangle_numbering.py and rectangle_alignment.py.
- Place your Task 1 and Task 2 code there.
+  
